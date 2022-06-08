@@ -1,1 +1,1 @@
-# The git is actually rockinga
+# The git is actually rocking
